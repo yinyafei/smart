@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.zly.zx</groupId>
+    <artifactId>smart</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>smart-app-api</module>
+        <module>smart-manager-api</module>
+        <module>smart-mgb</module>
+        <module>smart-service</module>
+        <module>smart-app-biz</module>
+        <module>smart-manager-biz</module>
+    </modules>
+
+
+</project>
